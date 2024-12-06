@@ -1,0 +1,5 @@
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfoInputs.cache
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.AssemblyInfo.cs
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Casey\OneDrive\Documenten\ma\periode 1.2\Prog\M2Prog_Cs2\Functions\Functions\obj\Debug\net8.0\Functions.sourcelink.json
