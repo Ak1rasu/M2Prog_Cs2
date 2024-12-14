@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RijSchool",
+    "\\RijSchool\\RijSchool"
   ],
+  "SelectedNode": "\\RijSchool\\RijSchool\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
